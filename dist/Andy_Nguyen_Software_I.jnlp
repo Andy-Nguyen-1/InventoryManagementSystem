@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Andy_Nguyen_Software_I.jnlp">
+  <information>
+    <title>Andy_Nguyen_Software_I</title>
+    <vendor>Andy Nguyen</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="Model.Main"  name="Andy_Nguyen_Software_I" />
+  <update check="always"/>
+</jnlp>
